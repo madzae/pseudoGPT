@@ -1,0 +1,76 @@
+[
+    {
+        "id": "AI_1772469377",
+        "token": "wikipedia",
+        "context": [
+            "internet",
+            "encyclopedia"
+        ],
+        "fact": "A free, multilingual online encyclopedia written and maintained by a community of volunteers through open collaboration."
+    },
+    {
+        "id": "AI_1772470308",
+        "token": "chatgpt",
+        "context": [
+            "ai",
+            "nlp",
+            "openai"
+        ],
+        "fact": "ChatGPT is an artificial intelligence chatbot developed by OpenAI that uses large language models to interact in a conversational way."
+    },
+    {
+        "id": "AI_1772470667",
+        "token": "indonesia",
+        "context": [
+            "southeast asia",
+            "oceania"
+        ],
+        "fact": "An archipelago located between the Indian and Pacific Oceans."
+    },
+    {
+        "id": "AI_1772471579",
+        "token": "earth",
+        "context": [
+            "astronomy",
+            "planetary science"
+        ],
+        "fact": "Earth's scientific names are Terra or Tellus, though it is internationally recognized by its common name in astronomical and geological fields."
+    },
+    {
+        "id": "coding",
+        "token": "php",
+        "context": [
+            "code",
+            "script",
+            "backend",
+            "server",
+            "logic"
+        ],
+        "fact": "PHP is the backbone of the web. Are you using version 8.x?"
+    },
+    {
+        "id": "coffee",
+        "token": "hot",
+        "context": [
+            "drink",
+            "latte",
+            "brew",
+            "cup",
+            "caffeine",
+            "tea"
+        ],
+        "fact": "Careful! Freshly brewed coffee is usually served at 80°C."
+    },
+    {
+        "id": "weather",
+        "token": "hot",
+        "context": [
+            "sun",
+            "bali",
+            "outside",
+            "forecast",
+            "temperature"
+        ],
+        "fact": "It is scorching in Bali! Stay hydrated and wear sunscreen."
+    }
+]
