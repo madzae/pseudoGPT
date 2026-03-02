@@ -1,4 +1,4 @@
-# Pseudo-LLM Architecture
+# PseudoGPT
 
 A high-performance, **hybrid-brain** chat interface that implements a **Teacher-Student architecture**. This project uses a local **Pseudo-Transformer** logic to provide sub-10ms response times for known facts while leveraging **Gemini** for complex generative reasoning.
 
