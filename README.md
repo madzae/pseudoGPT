@@ -1,6 +1,6 @@
 # PseudoGPT
 
-A high-performance, **hybrid-brain** artificial intelligence that implements a **Teacher-Student architecture**. This project uses a local **Pseudo-Transformer** logic to provide sub-10ms response times for known facts while leveraging **Gemini** for complex generative reasoning.
+A high-performance, hybrid-brain (pseudo) artificial intelligence that implements a Teacher-Student architecture. This project uses a local Pseudo-Transformer logic to provide sub-10ms response times for known facts while leveraging **Gemini** for complex generative reasoning.
 
 ---
 
